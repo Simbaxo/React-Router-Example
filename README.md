@@ -3,4 +3,3 @@
 - TypeScript
 - React Router
 - ReactJS
-- JS
