@@ -2,4 +2,4 @@
 
 - TypeScript
 - React Router
-- ReactJS
+- React JS
